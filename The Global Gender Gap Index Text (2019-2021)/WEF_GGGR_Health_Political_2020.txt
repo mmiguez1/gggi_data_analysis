@@ -1,4 +1,4 @@
-Political_Rank                      Country   Health/Survival_Score_(0-1) Health/Survival_Rank  Country   Health/Survival_Score_(0-1) Political_Rank      Country  Political_Score_(0-1) Political_Rank  Country   Political_Score_(0-1)
+Health/Survival_Rank                      Country   Health/Survival_Score_(0-1) Health/Survival_Rank  Country   Health/Survival_Score_(0-1) Political_Rank      Country  Political_Score_(0-1) Political_Rank  Country   Political_Score_(0-1)
 1                         Angola                 0.980             78                  France                 0.974         1             Iceland                 0.701         78     Malta                0.184
 1                         Argentina              0.980             79                  Indonesia              0.974         2             Norway                  0.598         79     Korea                0.179
 1                         Bahamas                0.980             80                  Cape_Verde             0.974         3             Nicaragua               0.565         80     Zambia*              0.174
