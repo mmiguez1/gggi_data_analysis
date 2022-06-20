@@ -8,5 +8,6 @@ In this project, we provide an end-to-end walk-through of identifying and scrapi
 2. Are particular major religions related to a lower overall gender gap index score?
 
 3. Can we predict how a country's gender gap index score will change over time based on the prediction of its future major religion?
+     
       
-To find out the answers to these questions, [read the tutorial here!](https://mmiguez1.github.io/gggi_data_analysis/)
+# To find out the answers to these questions, [read the tutorial here!](https://mmiguez1.github.io/gggi_data_analysis/)
