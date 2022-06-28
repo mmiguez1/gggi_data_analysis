@@ -15,4 +15,4 @@ The Global Gender Gap Index is a score ranging from 0 to 1 with 0 being the lowe
 ### 3. Can we predict how a country's gender gap index score will change over time based on the prediction of its future major religion?
      
      
-## To find out the answers to these questions, [read the tutorial here!](https://mmiguez1.github.io/gggi_data_analysis/)
+## *To find out the answers to these questions, [read the tutorial here!](https://mmiguez1.github.io/gggi_data_analysis/)*
