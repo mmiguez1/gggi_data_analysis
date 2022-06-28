@@ -16,3 +16,4 @@ The Global Gender Gap Index is a score ranging from 0 to 1 with 0 being the lowe
       
           
 ## *To find out the answers to these questions, [read the tutorial here!](https://mmiguez1.github.io/gggi_data_analysis/)*
+       
