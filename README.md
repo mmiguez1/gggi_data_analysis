@@ -7,12 +7,12 @@ The Global Gender Gap Index is a score ranging from 0 to 1 with 0 being the lowe
      
 # Project Goal     
 ## Three main questions that this project aims to answer are:
-```
+
 ### 1. How does religion impact a country's gender gap subindex scores in terms of health, education, economics, and politics?
 
 ### 2. Are particular major religions related to a lower overall gender gap index score?
 
 ### 3. Can we predict how a country's gender gap index score will change over time based on the prediction of its future major religion?
-```
-      
+     
+     
 ## To find out the answers to these questions, [read the tutorial here!](https://mmiguez1.github.io/gggi_data_analysis/)
