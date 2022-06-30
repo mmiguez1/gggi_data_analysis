@@ -1,6 +1,6 @@
 # Exploratory Analysis of the Impact of Religion on The Global Gender Gap Index (GGGI)
           
-Maygan Miguez (*TU '22*) and Jaclyn Wilson (*TU '22*)
+**Maygan Miguez (*TU '22*) and Jaclyn Wilson (*TU '22*)**
 
 In this project, we provide an end-to-end walk-through of identifying and scraping data from the GGGI and each country's major religion for the years 2010-2021, performing an exploratory analysis, and investigating how a country's major religion(s) impact the size of its gender gap in terms of health, education, economics, and politics. 
       
