@@ -1,4 +1,4 @@
-# Exploratory Analysis of the Impact of Religion on The Global Gender Gap Index (GGGI)
+# Exploratory Analysis of the Impact of Religion on the Global Gender Gap Index (GGGI)
           
 **Maygan Miguez (*TU '22*) and Jaclyn Wilson (*TU '22*)**
 
